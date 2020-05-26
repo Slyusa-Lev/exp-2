@@ -1,5 +1,3 @@
-console.log('rhz');
-
 const products = [
   {
       "id": 1,
